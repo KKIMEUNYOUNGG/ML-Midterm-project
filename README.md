@@ -1,7 +1,7 @@
 # ⚡🚗 전기차 주행거리 예측
 
-머신러닝기반데이터분석 중간과제 
-| 설계 스펙만으로 전기차 주행거리를 사전 예측하는 선형 회귀 모델
+머신러닝기반데이터분석 중간과제 <br>
+- 설계 스펙만으로 전기차 주행거리를 사전 예측하는 선형 회귀 모델
 
 ## 👋 프로젝트 소개
 
@@ -90,7 +90,6 @@ Python 3 / pandas / numpy / matplotlib / seaborn / scikit-learn / statsmodels
 ```
 ├── README.md
 ├── source_code.ipynb          # 전체 분석 코드
-├── presentation.pptx          # 발표 자료
 └── data/
     └── electric_vehicles_spec_2025.csv
 ```
